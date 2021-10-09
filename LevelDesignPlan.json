@@ -1,0 +1,1012 @@
+{
+    "songName": "First Steps",
+	"artistName" : "Lena Raine",
+    "timeStamps" : [
+        {
+			"time" : 5,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 3
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 3
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 10.7,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 16,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 4
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 4
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 21,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 3
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "right_wall",
+							"quantity" : 3
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 3
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "right_wall",
+							"quantity" : 3
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 3
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "right_wall",
+							"quantity" : 3
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "down_wall",
+							"quantity" : 4
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "left_wall",
+							"quantity" : 3
+						},
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "right_wall",
+							"quantity" : 3
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 32,
+			"triggerList" : [
+				{
+					"musicTrigger" : "E",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : -4,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "F#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : -2.5,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "G#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : -1,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "A",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : 0.5,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "B",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : 2,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "C#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : 3.5,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "D#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : 9.5,
+							"yspawn" : 5,
+							"speed" : 2,
+							"angle" : 180
+						}	
+					]
+				}
+			]
+        },
+		{
+			"time" : 42,
+			"triggerList" : [
+				{
+					"musicTrigger" : "E",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : -4,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "F#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : -2.5,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "G#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : -1,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "A",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : 0.5,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "B",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : 2,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "C#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : 3.5,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "D#",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "manual",
+							"xspawn" : -9.5,
+							"yspawn" : 5,
+							"speed" : 2,
+							"angle" : 0
+						}	
+					]
+				}
+			]
+        },
+		{
+			"time" : 53,
+			"triggerList" : [
+				{
+					"musicTrigger" : "E",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -8.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "F#",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -6,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "G#",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -3.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "A",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -1,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "B",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 1.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "C",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 4,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "D",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 6.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+						}	
+					]
+				}
+			]
+        },
+		{
+			"time" : 64,
+			"triggerList" : [
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "WallSpawnCircle",
+							"spawnType" : "up_wall",
+							"quantity" : 25
+						}
+					]
+				},
+				{
+					"musicTrigger" : "E",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -8.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "F#",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -6,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "G#",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -3.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "A",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : -1,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "B",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 1.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "C",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 4,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				},
+				{
+					"musicTrigger" : "D",
+					"attackList" : [
+						{
+							"obstacleName" : "DashCircle",
+							"spawnType" : "manual",
+							"xspawn" : 6.5,
+							"yspawn" : -5,
+							"speed" : 6,
+							"angle" : 90,
+							"fuseTime" : 1.33
+
+						}	
+					]
+				}
+			]
+        },
+		{
+			"time" : 75,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 86,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "ThickBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "ThickBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "ThickBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "ThickBeam",
+							"spawnType" : "random",
+							"fuseTime" : 1.33
+						}
+					]
+				}
+			]
+        },
+		{
+			"time" : 999,
+			"triggerList" : [
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+					]
+				}
+			]
+		}
+    ],
+	"bossPhases" : [
+		{
+			"untilHits" : 3,
+			"triggerList" : [
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 0
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 90
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 180
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 270
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 45
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 135
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 215
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 305
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 0
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 90
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 180
+						},
+						{
+							"obstacleName" : "FirstSmallSquare",
+							"spawnType" : "on_boss",
+							"speed" : 2.4,
+							"angle" : 270
+						}
+					]
+				}
+			]
+		},
+		{
+			"untilHits" : 6,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "on_boss",
+							"speed" : 1.5,
+							"angle" : 0
+						},
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "on_boss",
+							"speed" : 1.5,
+							"angle" : 90
+						},
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "on_boss",
+							"speed" : 1.5,
+							"angle" : 180
+						},
+						{
+							"obstacleName" : "FirstCircle",
+							"spawnType" : "on_boss",
+							"speed" : 1.5,
+							"angle" : 270
+						}
+					]
+				}
+			]
+		},
+		{
+			"untilHits" : -1,
+			"triggerList" : [
+
+				{
+					"musicTrigger" : "B:1",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "manual",
+							"xspawn" : 0.8,
+							"yspawn" : 0,
+							"fuseTime" : 0.66
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:2",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "manual",
+							"xspawn" : 0.4,
+							"yspawn" : 0,
+							"fuseTime" : 0.66
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:3",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "manual",
+							"xspawn" : -0.4,
+							"yspawn" : 0,
+							"fuseTime" : 0.66
+						}
+					]
+				},
+				{
+					"musicTrigger" : "B:0",
+					"attackList" : [
+						{
+							"obstacleName" : "FirstBeam",
+							"spawnType" : "manual",
+							"xspawn" : -0.8,
+							"yspawn" : 0,
+							"fuseTime" : 0.66
+						}
+					]
+				}
+			]
+		}
+
+		
+	]
+}
