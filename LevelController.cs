@@ -178,25 +178,6 @@ public class LevelController : MonoBehaviour
         //THEN, filter for the fuse of each attack, and bring the time of attacks back based on fuse time
         attackData = trigger2attack(levelData, levelPlan);
 
-        //Write out our array for debugging
-        string testPath = @"C:\Users\Quan Minh Pham\Documents\Projects\LightShow 2021\TestLevelData\Test.txt";
-        StreamWriter sw = File.AppendText(testPath);
-        foreach (KeyValuePair<float, string> pair in levelData)
-        {
-            sw.WriteLine(pair);
-        }
-        sw.Close();
-
-        //Write out our array for debugging
-        string testPathFilter = @"C:\Users\Quan Minh Pham\Documents\Projects\LightShow 2021\TestLevelData\Test_Filter.txt";
-        StreamWriter sw2 = File.AppendText(testPathFilter);
-        foreach (KeyValuePair<float, AttackDescriptorJSON> pair in attackData)
-        {
-            sw2.WriteLine(pair.Key + ", " + pair.Value.obstacleName + " " + pair.Value.fuseTime);
-        }
-
-        sw2.Close();
-
         nextAttackTime = attackData[nextAttackIndex].Key; //Get first attack time
 
         //Finally, spawn player and boss, display basic UI stuff
