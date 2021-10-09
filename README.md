@@ -8,6 +8,8 @@ The concept of the game is as follows:
 
 The design file used for the demo is a JSON file whose structure is defined by LevelJSONGen.cs. The demo features a limited projectile system, with 7 different obstacles containing various properties which can be specified using the player's JSON design file.
 
+The main file of interest should be LevelController.cs, which performs pre-processing on the music data, combines the music data with the design file, handles UI elements, spawns obstacles, and performs various other functionalities. ObstacleController.cs is the base class for all obstacles in the game. The Obstacle directory contains the classes for each in-game obstacle.
+
 My prototype currently only implements the beat and the main melody frequencies to generate in-game obstacles. For future work, other musical features would include the chords, motifs, complimentary melodies, etc. Main melody frequency recognition is done using the [Melodia](https://www.upf.edu/web/mtg/melodia) VAMP Plugin, and the beat is specified by user input. Future goals are to implement more robust MIR algorhithms using the [Essentia](https://essentia.upf.edu/index.html) framework.
 
 
